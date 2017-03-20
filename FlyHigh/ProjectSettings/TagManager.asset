@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - SceneControl
+  - ScoreManeger
+  - Fade
+  - SpeedManager
+  - Heal
+  - SpeedUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - BackGround
+  - Player
+  - Item
+  - Effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3596312887
+    locked: 0
+  - name: Cloud1
+    uniqueID: 2806673577
+    locked: 0
+  - name: Cloud2
+    uniqueID: 251842729
+    locked: 0
+  - name: Cloud3
+    uniqueID: 290879339
+    locked: 0
+  - name: yosoku
+    uniqueID: 442792003
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Effect
+    uniqueID: 610627545
+    locked: 0
